@@ -1,0 +1,5 @@
+streamlit>=1.37
+audio-recorder-streamlit>=0.0.8
+google-cloud-speech>=2.26.0
+firebase-admin>=6.5.0
+google-genai>=0.3.0
